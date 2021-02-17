@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WiFiAdbOpener</string>
+    <string name="hint">一键开启WiFi ADB</string>
+    <string name="hintRoot">*您需要 Root 才可以正常使用</string>
+    <string name="open">开启</string>
+    <string name="author">作者：JackuXL</string>
+    <string name="forum">论坛：https://wearbbs.cn/</string>
+    <string name="copyright">©2021 WBTeam 版权所有</string>
+    <string name="todo">TODO</string>
+</resources>
